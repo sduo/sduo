@@ -12,9 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+----
+
 ![Location](https://img.shields.io/badge/Location-CHANGSHA%20%C2%B7%20HUNAN-FE7D37?style=for-the-badge)
+
 ![Age](https://img.shields.io/badge/Age-35+-DFB317?style=for-the-badge)
-![Title](https://img.shields.io/badge/Title-Software%20Architect-FF69B4?style=for-the-badge)
+
+![Title](https://img.shields.io/badge/Title-Software%20Architect%20%C2%B7%2010Y-FF69B4?style=for-the-badge)
+
 ![C#](https://img.shields.io/badge/.Net-C%23-8A2BE2?style=for-the-badge)
 
+----
 [![Blog](https://img.shields.io/badge/Blog-%E4%B8%B7%E8%96%84%E8%8D%B7%E5%B7%A5%E5%9D%8A%E4%B8%B7-44CC11?style=for-the-badge)](https://www.yuque.com/sduo/blog/)
