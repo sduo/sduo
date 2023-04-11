@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sduo/sduo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[title](https://img.shields.io/badge/%E8%81%8C%E4%BD%8D-%E7%A0%94%E5%8F%91%E6%9E%B6%E6%9E%84%20%C2%B7%2010%20%E5%B9%B4-ff69b4?style=for-the-badge&labelColor=fedcba)
+![title](https://img.shields.io/badge/%E8%81%8C%E4%BD%8D-%E7%A0%94%E5%8F%91%E6%9E%B6%E6%9E%84%20%C2%B7%2010%20%E5%B9%B4-ff69b4?style=for-the-badge&labelColor=fedcba)
 
 [Blog](https://www.yuque.com/sduo/blog/)
