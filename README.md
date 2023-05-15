@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 ![C#](https://img.shields.io/badge/.Net-C%23-8A2BE2?style=for-the-badge)
 
+[![PMP](https://img.shields.io/badge/PMP-%233497391-05BFE0?style=for-the-badge)](https://static.sduoxminty.cn/sduo%40pmp.pdf)
+
 # ⚡Links⚡
 
 [![Blog](https://img.shields.io/badge/Blog-%E4%B8%B7%E8%96%84%E8%8D%B7%E5%B7%A5%E5%9D%8A%E4%B8%B7-44CC11?style=for-the-badge)](https://www.yuque.com/sduo/blog/)
