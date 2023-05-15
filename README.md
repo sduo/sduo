@@ -26,4 +26,6 @@ Here are some ideas to get you started:
 
 # ⚡Links⚡
 
+[![GitHub](https://img.shields.io/github/stars/sduo?color=007EC6&label=Github&style=for-the-badge)](https://github.com/sduo/)
+
 [![Blog](https://img.shields.io/badge/Blog-%E4%B8%B7%E8%96%84%E8%8D%B7%E5%B7%A5%E5%9D%8A%E4%B8%B7-44CC11?style=for-the-badge)](https://www.yuque.com/sduo/blog/)
