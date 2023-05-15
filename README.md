@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 # ✨About Me✨
 
-![Location](https://img.shields.io/badge/Location-CHANGSHA%20%C2%B7%20HUNAN-FE7D37?style=for-the-badge)
+[![Location](https://img.shields.io/badge/Location-CHANGSHA%20%C2%B7%20HUNAN-FE7D37?style=for-the-badge)](javascript:;)
 
-![Age](https://img.shields.io/badge/Age-35+-DFB317?style=for-the-badge)
+[![Age](https://img.shields.io/badge/Age-35+-DFB317?style=for-the-badge)](javascript:;)
 
-![Title](https://img.shields.io/badge/Title-Software%20Architect%20%C2%B7%2010Y-FF69B4?style=for-the-badge)
+[![Title](https://img.shields.io/badge/Title-Software%20Architect%20%C2%B7%2010Y-FF69B4?style=for-the-badge)](javascript:;)
 
-![C#](https://img.shields.io/badge/.Net-C%23-8A2BE2?style=for-the-badge)
+[![C#](https://img.shields.io/badge/.Net-C%23-8A2BE2?style=for-the-badge)](javascript:;)
 
 [![PMP](https://img.shields.io/badge/PMP-%233497391-05BFE0?style=for-the-badge)](https://static.sduoxminty.cn/sduo%40pmp.pdf)
 
