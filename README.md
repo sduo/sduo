@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 [![C#](https://img.shields.io/badge/.Net-C%23-8A2BE2?style=for-the-badge)](javascript:;)
 
-[![PMP](https://img.shields.io/badge/PMP-%233497391-05BFE0?style=for-the-badge)](https://static.sduoxminty.cn/sduo%40pmp.pdf)
+[![PMP](https://img.shields.io/badge/PMP-%233497391-05BFE0?style=for-the-badge)](https://static.sduoxminty.cn/about/sduo/pmp.pdf)
 
 # ⚡Links⚡
 
